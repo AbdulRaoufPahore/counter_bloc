@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # counter_bloc_state_managment
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# counter_bloc
+A simple Flutter Counter UI with multiple buttons (+, -, Reset, +5, and Floating Action Button(+100)) ready for BLoC integration
+>>>>>>> b38622f671bcd63ce42050b67ed43ea38a6f9eb7
